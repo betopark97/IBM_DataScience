@@ -24,6 +24,8 @@ that's why I handpicked a few of the projects to display from some of the 10 cou
 **Machine Learning with Python**
 - ML0101EN_SkillUp_FinalAssignment.jupyterlite.ipynb
 
+**Applied Data Science Capstone**
+
 
 
   
